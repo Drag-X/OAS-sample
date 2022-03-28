@@ -1,0 +1,11 @@
+{
+  "main" : "oas-sample-api.yaml",
+  "name" : "OAS-Sample-api",
+  "classifier" : "oas",
+  "tags" : [ ],
+  "groupId" : "06568b1f-32f7-4883-a6ae-30752a3e82cc",
+  "assetId" : "oas-sample-api",
+  "version" : "1.0.0",
+  "apiVersion" : "1.0.0",
+  "dependencies" : [ ]
+}
